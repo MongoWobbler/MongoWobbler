@@ -1,9 +1,14 @@
-### Hi there 👋
+Mongo [=](https://en.wikipedia.org/wiki/Footedness#:~:text=Mongo%20foot%20refers%20to%20the,rider's%20front%20foot%20for%20pushing.&text=Some%20skateboarders%20who%20do%20not,with%20their%20weaker%20back%20foot.) In skateboarding, Mongo foot refers to the use of the rider's front foot for pushing.  
+Wobbler [=](https://www.merriam-webster.com/dictionary/wobble) Entity that moves or proceeds with an irregular rocking or staggering motion or unsteadily and clumsily from side to side.  
+  
+Find out more @ [christiancorsica.com](https://www.christiancorsica.com/)
 
 <!--
 **MongoWobbler/MongoWobbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
